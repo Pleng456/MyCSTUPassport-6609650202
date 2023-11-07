@@ -60,6 +60,10 @@ html {
   padding: 15px;
 }
 
+/* For mobile phones: */
+[class="col-"] {
+  width: 100%;
+}
 
 @media only screen and (min-width: 576px ) {
   /* For :mobile phone */
